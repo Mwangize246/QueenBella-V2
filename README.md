@@ -9,11 +9,11 @@
 	
 	
 <p align="center">
-  <a href="https://github.com/AnonyMouSeTEAM/QueenBella">
+  <a href="https://github.com/Mwangize246/QueenBella">
     <img src="https://komarev.com/ghpvc/?username=AnonyMouSeTEAM&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
   </a>
-  <a href="https://github.com/AnonyMouSeTEAM?tab=followers">
+  <a href="https://github.com/Mwangize246?tab=followers">
     <img src="https://img.shields.io/github/followers/AnonyMouSeTEAM?color=ff69b4&label=Followers&style=plastic">
 
   </a>
@@ -21,7 +21,7 @@
 	
 	
 <p align="center">
-  <a href="https://github.com/AnonyMouSeTEAM"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/8gh32jk565/blob/main/automated_repo.json?raw=True&logo=github"></a>
+  <a href="https://github.com/Mwangize246"><img alt="GitHub Clones" src="https://img.shields.io/badge/dynamic/json?style=flat-square&label=Docker pulls&query=count&url=https://github.com/agentnox/8gh32jk565/blob/main/automated_repo.json?raw=True&logo=github"></a>
   
   </a>
   <a href="https://github.com/AnonyMouSeTEAM">
