@@ -16,28 +16,28 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is RED DRAGON🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is Captain Geoffrey😎` //Costomize Alive Message (type your message in `` )
 
-global.owner = ['+380944814219'] //Owner number in aive msg
-global.premium = ['+380944814219'] //Owner Number info
-global.ownernomer = '+380944814219' //Owner Number <<<
+global.owner = ['+254745772893'] //Owner number in aive msg
+global.premium = ['+254745772893'] //Owner Number info
+global.ownernomer = '+254745772893' //Owner Number <<<
 
-global.ownername = 'AMS TEAM' //Owner Name
+global.ownername = 'Geoffrey' //Owner Name
 global.botname = 'QueenBella' //Bot Name
 
-global.button = '🤭මේක ටච් කරන්න📍' //Costomize A Button Name In Alive Message
-global.btnurl = '🙂🔥දැන් සැපද?😑' //Change Your Button's URL
+global.button = '🤭I'm now Alive' //Costomize A Button Name In Alive Message
+global.btnurl = '🙂😑' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = 'QueenBella' //Bot Pacage Name
-global.author = 'AMS TEAM' //Author Name
+global.author = 'Captain Geoffrey' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/AnonyMouSeTEAM' //Github Account!
+global.ig = 'https://github.com/Mwangize246' //Github Account!
 global.footer = '©_Kumuthu.' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
